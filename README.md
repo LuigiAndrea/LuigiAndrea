@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao! 👋
+
+Thanks for visiting. I hope my contributions may help you solve a problem. If the code was helpful, please star it. Thanks!
+
+[![Linkedin: Luigi Daversa](https://img.shields.io/badge/-Luigi D'Aversa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luigiandreadaversa/)](https://www.linkedin.com/in/luigiandreadaversa/)
 
 <!--
 **LuigiAndrea/LuigiAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
