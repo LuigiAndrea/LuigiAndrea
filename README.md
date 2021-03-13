@@ -2,6 +2,8 @@
 
 Thanks for visiting. I hope my contributions may help you solve a problem. If the code was helpful, please star it. Thanks!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luigiandrea&layout=compact)](https://github.com/luigiandrea/github-readme-stats)
+
 [![Luigi](https://img.shields.io/badge/-Luigi&nbsp;D'Aversa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luigiandreadaversa/)](https://www.linkedin.com/in/luigiandreadaversa/)
 
 
